@@ -7,6 +7,19 @@
     <groupId>org.mrhu</groupId>
     <artifactId>RegexLearning</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <description>
+        该项目为个人学习正则表达式项目。
+    </description>
+
+    <developers>
+        <developer>
+            <name>小忠</name>
+            <email>1466947023@qq.com</email>
+            <organization>中国矿业大学</organization>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
